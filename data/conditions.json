@@ -1,0 +1,47 @@
+[
+  {
+    "id": "COND001",
+    "name": "Tuberculosis",
+    "description": "Infectious disease caused by Mycobacterium tuberculosis.",
+    "demographic_relevance": {
+      "age_range": "10-60",
+      "gender": "all"
+    }
+  },
+  {
+    "id": "COND002",
+    "name": "Anemia",
+    "description": "Condition with decreased red blood cell count or hemoglobin.",
+    "demographic_relevance": {
+      "age_range": "0-100",
+      "gender": "all"
+    }
+  },
+  {
+    "id": "COND003",
+    "name": "Generalized Anxiety Disorder",
+    "description": "Persistent and excessive worry about different things.",
+    "demographic_relevance": {
+      "age_range": "15-80",
+      "gender": "all"
+    }
+  },
+  {
+    "id": "COND004",
+    "name": "COVID-19",
+    "description": "Viral respiratory infection caused by SARS-CoV-2.",
+    "demographic_relevance": {
+      "age_range": "0-100",
+      "gender": "all"
+    }
+  },
+  {
+    "id": "COND005",
+    "name": "Migraine",
+    "description": "Recurrent headaches often accompanied by nausea and light sensitivity.",
+    "demographic_relevance": {
+      "age_range": "10-70",
+      "gender": "all"
+    }
+  }
+]

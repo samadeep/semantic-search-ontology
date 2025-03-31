@@ -1,0 +1,218 @@
+[
+  {
+    "symptom_id": "HP_0002090",
+    "condition_id": "COND004",
+    "relationship_type": "supportive_of",
+    "weight": 0.65
+  },
+  {
+    "symptom_id": "HP_0001945",
+    "condition_id": "COND002",
+    "relationship_type": "supportive_of",
+    "weight": 0.67
+  },
+  {
+    "symptom_id": "HP_0001250",
+    "condition_id": "COND003",
+    "relationship_type": "indicative_of",
+    "weight": 0.88
+  },
+  {
+    "symptom_id": "HP_0001250",
+    "condition_id": "COND001",
+    "relationship_type": "supportive_of",
+    "weight": 0.56
+  },
+  {
+    "symptom_id": "HP_0002011",
+    "condition_id": "COND001",
+    "relationship_type": "indicative_of",
+    "weight": 0.5
+  },
+  {
+    "symptom_id": "HP_0002011",
+    "condition_id": "COND004",
+    "relationship_type": "supportive_of",
+    "weight": 0.41
+  },
+  {
+    "symptom_id": "HP_0001627",
+    "condition_id": "COND004",
+    "relationship_type": "indicative_of",
+    "weight": 0.72
+  },
+  {
+    "symptom_id": "HP_0001627",
+    "condition_id": "COND003",
+    "relationship_type": "indicative_of",
+    "weight": 0.57
+  },
+  {
+    "symptom_id": "HP_0001627",
+    "condition_id": "COND002",
+    "relationship_type": "indicative_of",
+    "weight": 0.82
+  },
+  {
+    "symptom_id": "HP_0002355",
+    "condition_id": "COND004",
+    "relationship_type": "supportive_of",
+    "weight": 0.82
+  },
+  {
+    "symptom_id": "HP_0000739",
+    "condition_id": "COND001",
+    "relationship_type": "supportive_of",
+    "weight": 0.92
+  },
+  {
+    "symptom_id": "HP_0000739",
+    "condition_id": "COND003",
+    "relationship_type": "supportive_of",
+    "weight": 0.48
+  },
+  {
+    "symptom_id": "HP_0000739",
+    "condition_id": "COND005",
+    "relationship_type": "indicative_of",
+    "weight": 0.83
+  },
+  {
+    "symptom_id": "HP_0002591",
+    "condition_id": "COND001",
+    "relationship_type": "supportive_of",
+    "weight": 0.82
+  },
+  {
+    "symptom_id": "HP_0002591",
+    "condition_id": "COND003",
+    "relationship_type": "indicative_of",
+    "weight": 0.74
+  },
+  {
+    "symptom_id": "HP_0002237",
+    "condition_id": "COND001",
+    "relationship_type": "supportive_of",
+    "weight": 0.57
+  },
+  {
+    "symptom_id": "HP_0002105",
+    "condition_id": "COND004",
+    "relationship_type": "supportive_of",
+    "weight": 0.62
+  },
+  {
+    "symptom_id": "HP_0002105",
+    "condition_id": "COND005",
+    "relationship_type": "supportive_of",
+    "weight": 0.81
+  },
+  {
+    "symptom_id": "HP_0002105",
+    "condition_id": "COND002",
+    "relationship_type": "supportive_of",
+    "weight": 0.94
+  },
+  {
+    "symptom_id": "HP_0002315",
+    "condition_id": "COND005",
+    "relationship_type": "indicative_of",
+    "weight": 0.95
+  },
+  {
+    "symptom_id": "HP_0002315",
+    "condition_id": "COND003",
+    "relationship_type": "indicative_of",
+    "weight": 0.99
+  },
+  {
+    "symptom_id": "HP_0001947",
+    "condition_id": "COND001",
+    "relationship_type": "indicative_of",
+    "weight": 0.45
+  },
+  {
+    "symptom_id": "HP_0001873",
+    "condition_id": "COND002",
+    "relationship_type": "indicative_of",
+    "weight": 0.92
+  },
+  {
+    "symptom_id": "HP_0001873",
+    "condition_id": "COND001",
+    "relationship_type": "indicative_of",
+    "weight": 0.66
+  },
+  {
+    "symptom_id": "HP_0001871",
+    "condition_id": "COND005",
+    "relationship_type": "indicative_of",
+    "weight": 0.42
+  },
+  {
+    "symptom_id": "HP_0001871",
+    "condition_id": "COND003",
+    "relationship_type": "supportive_of",
+    "weight": 0.89
+  },
+  {
+    "symptom_id": "HP_0002013",
+    "condition_id": "COND002",
+    "relationship_type": "indicative_of",
+    "weight": 0.69
+  },
+  {
+    "symptom_id": "HP_0002354",
+    "condition_id": "COND001",
+    "relationship_type": "indicative_of",
+    "weight": 0.5
+  },
+  {
+    "symptom_id": "HP_0002354",
+    "condition_id": "COND005",
+    "relationship_type": "indicative_of",
+    "weight": 0.66
+  },
+  {
+    "symptom_id": "HP_0002354",
+    "condition_id": "COND004",
+    "relationship_type": "indicative_of",
+    "weight": 0.91
+  },
+  {
+    "symptom_id": "HP_0002326",
+    "condition_id": "COND003",
+    "relationship_type": "supportive_of",
+    "weight": 0.4
+  },
+  {
+    "symptom_id": "HP_0001251",
+    "condition_id": "COND005",
+    "relationship_type": "supportive_of",
+    "weight": 0.95
+  },
+  {
+    "symptom_id": "HP_0001882",
+    "condition_id": "COND002",
+    "relationship_type": "supportive_of",
+    "weight": 0.52
+  },
+  {
+    "symptom_id": "HP_0001882",
+    "condition_id": "COND004",
+    "relationship_type": "supportive_of",
+    "weight": 0.79
+  },
+  {
+    "symptom_id": "HP_0000736",
+    "condition_id": "COND005",
+    "relationship_type": "indicative_of",
+    "weight": 0.65
+  },
+  {
+    "symptom_id": "HP_0000736",
+    "condition_id": "COND001",
+    "relationship_type": "indicative_of",
+    "weight": 0.92
+  }
+]

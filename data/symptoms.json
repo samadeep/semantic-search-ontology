@@ -1,0 +1,147 @@
+[
+  {
+    "id": "HP_0002090",
+    "name": "Cough",
+    "synonyms": [
+      "Tussis",
+      "Persistent cough"
+    ]
+  },
+  {
+    "id": "HP_0001945",
+    "name": "Fever",
+    "synonyms": [
+      "Pyrexia",
+      "Elevated temperature"
+    ]
+  },
+  {
+    "id": "HP_0001250",
+    "name": "Seizure",
+    "synonyms": [
+      "Convulsion",
+      "Epileptic seizure"
+    ]
+  },
+  {
+    "id": "HP_0002011",
+    "name": "Nausea",
+    "synonyms": [
+      "Queasiness"
+    ]
+  },
+  {
+    "id": "HP_0001627",
+    "name": "Chest pain",
+    "synonyms": [
+      "Thoracic pain"
+    ]
+  },
+  {
+    "id": "HP_0002355",
+    "name": "Fatigue",
+    "synonyms": [
+      "Tiredness",
+      "Exhaustion"
+    ]
+  },
+  {
+    "id": "HP_0000739",
+    "name": "Anxiety",
+    "synonyms": [
+      "Nervousness",
+      "Restlessness"
+    ]
+  },
+  {
+    "id": "HP_0002591",
+    "name": "Weight loss",
+    "synonyms": [
+      "Decreased body weight"
+    ]
+  },
+  {
+    "id": "HP_0002237",
+    "name": "Sore throat",
+    "synonyms": [
+      "Throat pain"
+    ]
+  },
+  {
+    "id": "HP_0002105",
+    "name": "Shortness of breath",
+    "synonyms": [
+      "Dyspnea"
+    ]
+  },
+  {
+    "id": "HP_0002315",
+    "name": "Headache",
+    "synonyms": [
+      "Cephalalgia"
+    ]
+  },
+  {
+    "id": "HP_0001947",
+    "name": "Vomiting",
+    "synonyms": [
+      "Emesis"
+    ]
+  },
+  {
+    "id": "HP_0001873",
+    "name": "Bleeding",
+    "synonyms": [
+      "Hemorrhage"
+    ]
+  },
+  {
+    "id": "HP_0001871",
+    "name": "Bruising",
+    "synonyms": [
+      "Ecchymosis"
+    ]
+  },
+  {
+    "id": "HP_0002013",
+    "name": "Abdominal pain",
+    "synonyms": [
+      "Stomach ache"
+    ]
+  },
+  {
+    "id": "HP_0002354",
+    "name": "Insomnia",
+    "synonyms": [
+      "Sleeplessness"
+    ]
+  },
+  {
+    "id": "HP_0002326",
+    "name": "Dizziness",
+    "synonyms": [
+      "Lightheadedness"
+    ]
+  },
+  {
+    "id": "HP_0001251",
+    "name": "Memory loss",
+    "synonyms": [
+      "Amnesia"
+    ]
+  },
+  {
+    "id": "HP_0001882",
+    "name": "Diarrhea",
+    "synonyms": [
+      "Frequent stools"
+    ]
+  },
+  {
+    "id": "HP_0000736",
+    "name": "Depression",
+    "synonyms": [
+      "Low mood"
+    ]
+  }
+]
