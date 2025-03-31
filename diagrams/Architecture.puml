@@ -1,0 +1,22 @@
+@startuml
+actor User
+database "HPO Ontology Store\n(hp.owl via OWLReady2)" as HPO
+database "Local JSON DB\n(symptoms.json, conditions.json, links.json)" as JSON
+component "Symptom Search UI\n(Streamlit)" as UI
+component "Query Processor\n(NLP + Symptom Mapping)" as Query
+component "Inference Engine\n(Graph Reasoning)" as Infer
+component "Search API\n(FastAPI)" as API
+
+User --> UI : enters symptoms
+UI --> API : sends query (symptoms, age, gender)
+API --> Query : NLP extract + map to symptom IDs
+Query --> JSON : lookup symptoms
+Query --> HPO : optional synonym/related expansion
+
+Query --> Infer : symptom IDs + context
+Infer --> JSON : fetch condition links
+Infer --> JSON : fetch conditions
+Infer --> API : return ranked results
+API --> UI : top conditions + score
+UI --> User : display results
+@enduml
