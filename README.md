@@ -18,6 +18,7 @@ project-root/
 ├── Dockerfile.backend
 ├── Dockerfile.frontend
 ```
+![Architecture Diagram](/diagrams/nlp-semantic-aod.png)
 
 ## Prerequisites
 - Python 3.8+
