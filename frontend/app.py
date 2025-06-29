@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 
-st.title("🩺 Semantic Symptom Search")
+st.title("🩺 Semantic Symptom Search with Ontology")
 
 symptom_input = st.text_input("Enter symptoms (comma separated)", "persistent cough, fatigue")
 age = st.slider("Patient age", 0, 100, 30)
