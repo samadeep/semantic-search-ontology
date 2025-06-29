@@ -18,4 +18,4 @@ if st.button("Search Conditions"):
         for res in results:
             st.write(f"**{res['condition']}** - Score: {res['score']:.2f}")
     else:
-        st.error("Failed to fetch results from the backend.")
+        st.error("Failed to fetch the results from the backend.")

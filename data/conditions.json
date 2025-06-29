@@ -14,7 +14,7 @@
     "description": "Condition with decreased red blood cell count or hemoglobin.",
     "demographic_relevance": {
       "age_range": "0-100",
-      "gender": "all"
+      "gender": "female"
     }
   },
   {
