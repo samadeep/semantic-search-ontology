@@ -4,7 +4,7 @@ import requests
 
 st.title("🩺 Semantic Symptom Search")
 
-symptom_input = st.text_input("Enter symptoms (comma separated)", "persistent cough, fatigue")
+symptom_input = st.text_input("Enter symptoms for: (comma separated)", "persistent cough, fatigue")
 age = st.slider("Patient age", 0, 100, 30)
 gender = st.selectbox("Gender", ["all", "male", "female"])
 
