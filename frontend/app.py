@@ -4,7 +4,7 @@ import requests
 
 st.title("🩺 Semantic Symptom Search")
 
-symptom_input = st.text_input("Enter symptoms (comma separated)", "persistent cough, fatigue")
+symptom_input = st.text_input("Enter symptoms for: (comma separated)", "persistent cough, fatigue")
 age = st.slider("Patient age", 0, 100, 30)
 gender = st.selectbox("Gender", ["all", "male", "female"])
 
@@ -18,4 +18,4 @@ if st.button("Search Conditions"):
         for res in results:
             st.write(f"**{res['condition']}** - Score: {res['score']:.2f}")
     else:
-        st.error("Failed to fetch results from the backend.")
+        st.error("Failed to fetch the results from the backend.")
